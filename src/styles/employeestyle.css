@@ -1,0 +1,25 @@
+.employee{
+    width: 1600px;
+    height: 110vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .form-card {
+    width: 500px; /* Set the initial width */
+    padding: 20px;
+    margin-left: 600px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.form-container {
+  width: 400px; /* Adjust the width as per your design */
+  margin: 10px; /* Centers the container horizontally */
+  padding: 10px; /* Adds padding around the form */
+}
+
